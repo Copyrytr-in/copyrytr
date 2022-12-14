@@ -259,6 +259,11 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column-reverse;
+}
+.coming-soon{
+  font-weight: 500;
+  font-stretch:extra-expanded;
 }
 
 /* ==== MEDIA QURIES FOR RESPONSIVE DESIGN ==== */
